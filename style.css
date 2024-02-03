@@ -44,7 +44,7 @@ body{
 }
 .largebox{
     border:0px double red;
-    height:570px;
+    height:590px;
     width:100%;
     background: radial-gradient(violet,aqua);
     background-clip: text;
