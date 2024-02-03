@@ -363,3 +363,11 @@ filter:grayscale(100%);
 filter: brightness(100%);
 transform: scale(1.4);
 }
+.person1{
+    border:0px solid green;
+    float:left;
+    height:400px;
+    width:400px;
+    margin-left:70px;
+    margin-top:50px;
+}
